@@ -1,5 +1,9 @@
-**Week 2**
- Day 2
- P 1
- Climbing stairs 
+# **Week 2**
+### Day2, P1,
+ Climbing stairs,
  Use recursion with memoization/dp.
+ ### Day4, P1,
+ Longest plindrome,
+ freq counter, even/odd logic.
+ ### Day5, P1,
+ 
