@@ -6,4 +6,6 @@
  Longest plindrome,
  freq counter, even/odd logic.
  ### Day5, P1,
+ Reverse Linked list,
+ 2 methods, iterative, recussive.
  
