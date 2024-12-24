@@ -8,4 +8,7 @@
  ### Day5, P1,
  Reverse Linked list,
  2 methods, iterative, recussive.
+ ### Day X,
+ Majority Element,
+ Moore's voting algorithm.
  
